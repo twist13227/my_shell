@@ -1,0 +1,6 @@
+итого 56
+-rwxrwxr-x. 1 twist twist 36800 дек 11 09:27 a.out
+drwxr-xr-x. 4 twist twist  4096 дек 10 20:29 cmake-build-debug
+-rw-r--r--. 1 twist twist   113 дек 10 17:52 CMakeLists.txt
+-rw-rw-r--. 1 twist twist     0 дек 11 09:28 f.text
+-rw-r--r--. 1 twist twist  9537 дек 11 09:24 shell.c
